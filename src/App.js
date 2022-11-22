@@ -4,7 +4,8 @@ import './App.css';
 import React,{useState} from 'react'
 import Navbar from './components/Navbar'
 import {
-  BrowserRouter as Router,
+ // BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
