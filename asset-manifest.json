@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactProjects/static/css/main.abd64e84.css",
-    "main.js": "/ReactProjects/static/js/main.1790d0b6.js",
-    "static/js/787.4c026eef.chunk.js": "/ReactProjects/static/js/787.4c026eef.chunk.js",
-    "index.html": "/ReactProjects/index.html",
-    "main.abd64e84.css.map": "/ReactProjects/static/css/main.abd64e84.css.map",
-    "main.1790d0b6.js.map": "/ReactProjects/static/js/main.1790d0b6.js.map",
-    "787.4c026eef.chunk.js.map": "/ReactProjects/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/NewsApp/static/css/main.abd64e84.css",
+    "main.js": "/NewsApp/static/js/main.5993fafd.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsApp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/NewsApp/index.html",
+    "main.abd64e84.css.map": "/NewsApp/static/css/main.abd64e84.css.map",
+    "main.5993fafd.js.map": "/NewsApp/static/js/main.5993fafd.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsApp/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.1790d0b6.js"
+    "static/js/main.5993fafd.js"
   ]
 }
